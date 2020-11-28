@@ -1,6 +1,14 @@
 # Exposure-of-Job-Satisfaction
 
-Exposure of different ways to work with the data
+Steps in this Repository
+- Understanding the data(sets) 
+- Checking for missing data. If so the question is to either substitute or delete the identified rows or columns. 
+- Checking for duplicates. This is especially important in lookup tables because this causes errors.
+- Checking and/ or changing the data format. This is very important as analysis applications, like Python, offer data format specific features and functionalities.
+- Always question yourself if the results make sense. 
+- Commenting your steps. This will help you but especially others to understand what has been done.
+- Naming your variables in a way that makes sense.
+- Exposure of different ways to work with the data
 
 Data included: 'Respondent',
  'Professional',
