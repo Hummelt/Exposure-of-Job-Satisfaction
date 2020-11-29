@@ -1,5 +1,11 @@
 # Exposure-of-Job-Satisfaction
 
+# Understanding
+
+# Prepare Data
+
+# Data Moddeling
+
 Steps in this Repository
 - Understanding the data(sets) 
 - Checking for missing data. If so the question is to either substitute or delete the identified rows or columns. 
@@ -9,6 +15,7 @@ Steps in this Repository
 - Commenting your steps. This will help you but especially others to understand what has been done.
 - Naming your variables in a way that makes sense.
 - Exposure of different ways to work with the data
+
 
 Data included: 'Respondent',
  'Professional',
@@ -164,3 +171,7 @@ Data included: 'Respondent',
  'InterestedAnswers',
  'Salary',
  'ExpectedSalary']
+ 
+ # Questions of the Analysis
+ 
+ # Evaluate the Results
